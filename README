@@ -1,0 +1,7 @@
+Remote Controlled WheelChair
+
+The aim of this project is to allow a motorized wheel chair to be controlled using
+a raspberry pi , a motor controller and a wii remote.
+We use the cwiid library to interface the wii remote
+
+ 
